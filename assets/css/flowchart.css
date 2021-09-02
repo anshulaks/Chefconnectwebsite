@@ -1,0 +1,36 @@
+section.works {
+    background-image: url(../images/parallax/chef.jpg);
+    min-height: 505px;
+}
+
+section.works h2 {
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    font-size: 2em;
+    color: #bfa760;
+    text-transform: uppercase;
+}
+
+section.works h2 span {
+    position: absolute;
+    font-family: Bitter;
+    right: 0;
+    font-weight: 700;
+    font-size: 72px;
+}
+
+section.works h2:after {
+    content: '';
+    width: 40px;
+    height: 3px;
+    background: #e2e9ed;
+    position: absolute;
+    bottom: -5px;
+    left: 36px;
+}
+
+section.works h2:before,
+section.works h2:after {
+    content: "";
+}

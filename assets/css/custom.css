@@ -1,0 +1,228 @@
+.about {
+    font-size: 14px;
+    color: #f7f7f9;
+    text-align: justify;
+}
+
+.footer-links a {
+    color: white;
+}
+
+.footer-distributed .footer-center {
+    width: 35%;
+}
+
+.footer-distributed .footer-left,
+.footer-distributed .footer-center,
+.footer-distributed .footer-right {
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+/* .footer-center i {
+    background-color: #C1A667;
+    color: #ffffff;
+    font-size: 12px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 32px;
+    margin: 10px 15px;
+    vertical-align: middle;
+} */
+
+.footer-center i {
+    background-color: #C1A667;
+    color: #ffffff;
+    font-size: 12px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 32px;
+    margin: 10px 5px;
+    vertical-align: middle;
+}
+
+#footer .social li .icon {
+    background: transparent;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 22px;
+    line-height: 40px;
+    border: 1px solid #C1A667;
+    color: #C1A667;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.footer-center p,
+span,
+a {
+    color: white;
+    font-size: 15px;
+}
+
+.card-img-top {
+    border-radius: 50%;
+    max-width: 193px;
+    margin: auto;
+}
+
+.card a {
+    text-transform: uppercase;
+    font-family: "Cabin", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #0c0901;
+    margin-bottom: 20px;
+}
+
+.card span {
+    display: block;
+    text-transform: none;
+    font-weight: 400;
+    color: #484745;
+    font-size: 15px;
+}
+
+
+/* Whatsapp */
+
+.whatsapp {
+    z-index: 99999;
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+}
+
+.whatsapp h5 {
+    color: white;
+    background: #20b20f;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 10px;
+}
+
+section.works h3 {
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    font-size: 2em;
+    color: #bfa760;
+    text-transform: uppercase;
+}
+
+section.works h4 {
+    text-transform: uppercase;
+    font-family: "Cabin", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFF;
+    margin-bottom: 10px;
+}
+
+.work-card {
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #582C4F;
+}
+
+.work-card p {
+    color: #FFF;
+}
+
+#about p.text {
+    margin-bottom: 20px;
+    line-height: 22px;
+}
+
+
+/* width */
+
+
+/* ::-webkit-scrollbar {
+    width: 5px;
+} */
+
+
+/* Track */
+
+ ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+
+/* Handle */
+
+ ::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+
+/* Handle on hover */
+
+ ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+@media only screen and (min-width: 1366px) {
+    .menuView {
+        width: 20% !important;
+    }
+    .modal-content {
+        width: 30% !important;
+    }
+}
+
+.modal {
+    text-align: center;
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 9999;
+    /* Sit on top */
+    padding-top: 10%;
+    /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4);
+    /* Black w/ opacity */
+}
+
+
+/* Modal Content */
+
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    /* padding: 20px; */
+    /* border: 1px solid #888; */
+    width: 80%;
+}
+
+iframe {
+    height: 500px !important;
+}
+
+@media only screen and (max-width: 606px) {
+    iframe {
+        height: 185px !important;
+    }
+}

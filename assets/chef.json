@@ -1,0 +1,99 @@
+{
+    "chef": [{
+        "name": "Jaipur",
+        "chefs": [
+            { "name": "GAURAV RAWAT", "cuisine": "Indian", "img": "32.jpg" },
+            { "name": "RAJAT RATHORE", "cuisine": "Indian", "img": "33.jpg" },
+            { "name": "DHIRENDRA SINGH", "cuisine": "Indian", "img": "34.jpg" },
+            { "name": "Omkar Lal Rebari", "cuisine": "Indian", "img": "35.jpg" },
+            { "name": "SANJAY VERMA", "cuisine": "Indian", "img": "36.jpg" }
+        ]
+    }, {
+        "name": "Mumbai",
+        "chefs": [
+            { "name": "Advait tawde", "cuisine": "Continental,Indian,chinese", "img": "23.jpg" }
+        ]
+    }, {
+        "name": "New Delhi",
+        "chefs": [
+            { "name": "Suparna Saha", "cuisine": "Modern European, German, Classic European, Italian, Mediterranean, south indian", "img": "20.jpg" },
+            { "name": "Amit bhadauriya", "cuisine": "Continental, Grill, Garde manager", "img": "21.jpg" },
+            { "name": "Gaurav Chawla", "cuisine": "Modern Indian Cusine, European", "img": "24.jpg" },
+            { "name": "Muskan kallra", "cuisine": "Indian,Chinese, thai,mexican,italian,french", "img": "28.jpg" },
+            { "name": "Sushain Tuli", "cuisine": "Indian", "img": "29.jpg" },
+            { "name": "Saurabh Sharma", "cuisine": "Indian", "img": "chef.png" },
+            { "name": "Vipin Singh", "cuisine": "Indian", "img": "chef.png" },
+            { "name": "Shankar Dutt", "cuisine": "Indian", "img": "chef.png" },
+            { "name": "DEEPAK RAJ SRIVASTAVA", "cuisine": "Worldwide and indian cuisnes speciallity", "img": "31.jpg" }
+        ]
+    }, {
+        "name": "Indore",
+        "chefs": [
+            { "name": "Tanishqua Bhasin", "cuisine": "Bakery", "img": "22.jpg" }
+        ]
+    }, {
+        "name": "Almora",
+        "chefs": [
+            { "name": "Tanishqua Bhasin", "cuisine": "Western and Indian", "img": "25.jpg" }
+        ]
+    }, {
+        "name": "Raipur",
+        "chefs": [
+            { "name": "Rami", "cuisine": "International", "img": "30.jpg" }
+        ]
+    }, {
+        "name": "Banglore",
+        "chefs": [
+            { "name": "Kritika Pant", "cuisine": "Italian, Indian, Mexican", "img": "26.jpg" }
+        ]
+    }, {
+        "name": "Kerala",
+        "chefs": [
+            { "name": "ARUN SIVAKUMAR", "cuisine": "European,garde manger,bakery", "img": "27.jpg" }
+        ]
+    }, {
+        "name": "Dubai",
+        "chefs": [
+            { "name": "Rami Abushammala", "cuisine": "International", "img": "3.jpg" },
+            { "name": "Mohamed Ibrahim", "cuisine": "International", "img": "4.jpg" },
+            { "name": "Shiristi Singh", "cuisine": "Japanese, Italian, Arabic, jamaican, Mexican, poke, American, Indian", "img": "5.jpg" },
+            { "name": "Dyan Rendon", "cuisine": "Italian", "img": "6.jpg" },
+            { "name": "Surms sunar", "cuisine": "International", "img": "7.jpg" },
+            { "name": "Mehwish khalid", "cuisine": "Pakistani, Italian,arbic,vegan food, protein foods", "img": "9.jpg" },
+            { "name": "Mohammad Anowar hussain", "cuisine": "Maxican", "img": "10.jpg" },
+            { "name": "Sunny Arora", "cuisine": "Italian, Indian", "img": "11.jpg" },
+            { "name": "Gaffar Shariff", "cuisine": "Arabic, Continental, Indain, Chaniees", "img": "12.jpg" },
+            { "name": "Murat Avcı", "cuisine": "International, French, Turkish", "img": "13.jpg" },
+            { "name": "Francesco Acquaviva", "cuisine": "International", "img": "chef.png" }
+
+        ]
+    }, {
+        "name": "Abu Dhabi",
+        "chefs": [
+            { "name": "Aristeo Batol", "cuisine": "International", "img": "chef.png" },
+            { "name": "Andrew Crellin", "cuisine": "French classic", "img": "2.jpg" }
+        ]
+    }, {
+        "name": "Singapore",
+        "chefs": [
+            { "name": "Emmanuel Stroobant", "cuisine": "International", "img": "chef.png" }
+        ]
+    }, {
+        "name": "Greece",
+        "chefs": [
+            { "name": "Chef stephanie", "cuisine": "International", "img": "chef.png" },
+            { "name": "Burdet Gourmet", "cuisine": "International", "img": "chef.png" }
+        ]
+    }, {
+        "name": "Canada",
+        "chefs": [
+            { "name": "Zouhair Benchiker", "cuisine": "International", "img": "chef.png" }
+        ]
+    }, {
+        "name": "Toronto",
+        "chefs": [
+            { "name": "Chef Daniella Silva", "cuisine": "International", "img": "chef.png" }
+        ]
+    }]
+
+}
